@@ -1,0 +1,42 @@
+{
+  "name": "expandedworld:village/dark_forest/town_centers",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "location": "expandedworld:village/dark_forest/town_centers/dark_forest_fountain_01",
+        "processors": "expandedworld:street_dark_forest",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "expandedworld:village/dark_forest/town_centers/dark_forest_meeting_point_1",
+        "processors": "expandedworld:street_dark_forest",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "expandedworld:village/dark_forest/town_centers/dark_forest_meeting_point_2",
+        "processors": "expandedworld:street_dark_forest",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "location": "expandedworld:village/dark_forest/town_centers/dark_forest_meeting_point_3",
+        "processors": "expandedworld:street_dark_forest",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

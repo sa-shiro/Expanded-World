@@ -1,0 +1,23 @@
+{
+  "feature": {
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/birch/east",
+          "chance": 0.25
+        },
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/birch/south",
+          "chance": 0.25
+        },
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/birch/west",
+          "chance": 0.25
+        }
+      ],
+      "default": "expandedworld:vegetation/trees/fallen/birch/north"
+    }
+  },
+  "placement": []
+}
