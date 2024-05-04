@@ -1,0 +1,23 @@
+{
+  "feature": {
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/spruce/east",
+          "chance": 0.25
+        },
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/spruce/south",
+          "chance": 0.25
+        },
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/spruce/west",
+          "chance": 0.25
+        }
+      ],
+      "default": "expandedworld:vegetation/trees/fallen/spruce/north"
+    }
+  },
+  "placement": []
+}
