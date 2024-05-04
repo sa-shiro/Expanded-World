@@ -1,0 +1,27 @@
+{
+  "feature": {
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "feature": "expandedworld:vegetation/vines/east",
+          "chance": 0.2
+        },
+        {
+          "feature": "expandedworld:vegetation/vines/west",
+          "chance": 0.2
+        },
+        {
+          "feature": "expandedworld:vegetation/vines/north",
+          "chance": 0.2
+        },
+        {
+          "feature": "expandedworld:vegetation/vines/south",
+          "chance": 0.2
+        }
+      ],
+      "default": "expandedworld:vegetation/vines/up"
+    }
+  },
+  "placement": []
+}

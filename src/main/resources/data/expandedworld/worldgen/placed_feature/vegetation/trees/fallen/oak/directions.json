@@ -1,0 +1,23 @@
+{
+  "feature": {
+    "type": "minecraft:random_selector",
+    "config": {
+      "features": [
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/oak/east",
+          "chance": 0.25
+        },
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/oak/south",
+          "chance": 0.25
+        },
+        {
+          "feature": "expandedworld:vegetation/trees/fallen/oak/west",
+          "chance": 0.25
+        }
+      ],
+      "default": "expandedworld:vegetation/trees/fallen/oak/north"
+    }
+  },
+  "placement": []
+}

@@ -1,0 +1,10 @@
+{
+  "config": {
+    "start_pool": "expandedworld:village/swamp/town_centers",
+    "size": 6
+  },
+  "biomes": "#expandedworld:has_structure/village_swamp",
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "type": "minecraft:village"
+}
