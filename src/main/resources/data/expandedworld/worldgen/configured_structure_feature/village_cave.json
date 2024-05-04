@@ -1,0 +1,10 @@
+{
+  "config": {
+    "start_pool": "expandedworld:village/cave/entrances",
+    "size": 6
+  },
+  "biomes": "#expandedworld:has_structure/village_cave",
+  "adapt_noise": true,
+  "spawn_overrides": {},
+  "type": "minecraft:village"
+}
